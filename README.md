@@ -37,13 +37,17 @@ The Family History Library Catalog contains metadata with varied formats and str
 - Cleaned metadata with consistent formats and reduced redundancy.
 - Visualizations highlight key patterns and areas needing attention.
 - Enhanced metadata quality for better usability in the catalog.
+- 
+### Presentation
+From Winter 2025 semester
+https://docs.google.com/presentation/d/1y2mI8iDXViq2o36hwFZ7qixGeR4Q26u22JaUb4CSVSI/edit?usp=sharing
 
-## Team Members
-- Talon Hintze
-- Sam Anderson
-- Karen Castillo
-- Dali Li
-- Z
+### New code
+https://colab.research.google.com/drive/1TUJ1lhxG01W8ffsdp8HpTDw8dQNPgCbw?usp=sharing
+
+https://colab.research.google.com/drive/1EtH-qNKpro5JEq8zHAW67HOBY0y7S_lc?usp=sharing
+
+https://colab.research.google.com/drive/1C1xSb0Q4hvW_D4GZfjC6xKPZaTQvdSlv?usp=sharing
 
 ---
 
